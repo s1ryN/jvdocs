@@ -6,3 +6,7 @@ Při odevzdání sepište krátký popis, ve kterém byste měli shrnout, jak js
     Závěrečné závěry a poznatky z tvorby aplikace
 
 Závěrečné zpracování by mělo být stručné, ale obsáhlé a mělo by poskytnout dostatečné informace o průběhu tvorby formuláře. Mělo by být také přehledné a snadno čitelné, takže byste měli použít odstavce, nadpisy a odkazy pro lepší strukturu a organizaci textu.
+
+
+
+Aplikace musí být odevzdána s dokumentací obsahující popis funkcí aplikace, návod k použití a náhledy obrazovek.
